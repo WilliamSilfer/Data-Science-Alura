@@ -1,2 +1,2 @@
 # Data-Science
-Todo conhecimendo sobre DS que estarei adiquirindo será upado neste repositório
+Aulas, cursos e aprendizados durante aulas estará sendo upado neste repositório
